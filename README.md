@@ -1,6 +1,6 @@
 # Commitment Of Traders Analysis
 
-What Is the Commitments of Traders (COT) Report?
+*What Is the Commitments of Traders (COT) Report?*
 The Commitment of Traders (COT) report is a weekly publication that shows the aggregate holdings of different participants in the U.S. futures market. Published every Friday by the Commodity Futures Trading Commission (CFTC) at 3:30 E.T., the COT report is a snapshot of the commitment of the classified trading groups as of Tuesday that same week.
 
 The report provides investors with up-to-date information on futures market operations and increases the transparency of these complex exchanges. It is used by many futures traders as a market signal on which to trade.
